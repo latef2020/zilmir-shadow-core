@@ -1,0 +1,1 @@
+print("Zilmir Shadow Core v2 initialized")
